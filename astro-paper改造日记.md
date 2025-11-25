@@ -74,7 +74,7 @@ const sortedPosts = getSortedPosts(posts);
 h1, h2, h3, h4, h5, h6,span,figcaption,div{font-family: 'LXGW WenKai GB', sans-serif;}
 li{font-family: 'JetBrains Mono', sans-serif;}
 p {font-family: 'LXGW WenKai GB', sans-serif;font-size: 18px;}
-/* 博客标题字体 /
+/* 博客标题字体 */
 a.absolute {
 font-size: 22px;  / 修改字体大小 /
 font-family: lxgw wenkai, sans-serif;  / 修改字体类型 */
