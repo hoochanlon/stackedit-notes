@@ -60,7 +60,6 @@ const sortedPosts = getSortedPosts(posts);
 <span class="token punctuation">}</span>
 
 </code></pre>
-<h2 id="外链跳转">外链跳转</h2>
 <h2 id="字体修改">字体修改</h2>
 <p>字体修改：</p><ul>
 <li>字体分包工具：<a href="https://chinese-font.netlify.app/zh-cn/online-split">https://chinese-font.netlify.app/zh-cn/online-split</a></li>
