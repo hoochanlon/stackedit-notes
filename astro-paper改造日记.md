@@ -69,6 +69,7 @@ jobs:
 * `\src\config.ts` 博客资料页修改
 * `\src\pages\index.astro` 欢迎页修改
 * `\src\constants.ts` 社交链接修改
+* `src\pages\about.md` 关于
 
 图标网站参考：
 
@@ -190,9 +191,18 @@ import ExpiredBanner from '@/components/ExpiredBanner.astro'
 ```
 
 
+## 图标修改
+
+`\src\constants.ts` 社交链接修改
+
+图标网站：
+
+* https://icon-sets.iconify.design
+* https://icones.js.org
+
+
 
 ## 扩展
-
 
 - astro umami 统计：https://github.com/yeskunall/astro-umami
 - astro markdown 外链：https://odhyp.com/astro-opening-external-links
