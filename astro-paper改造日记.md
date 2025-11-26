@@ -70,6 +70,7 @@ jobs:
 * `\src\pages\index.astro` 欢迎页修改
 * `\src\constants.ts` 社交链接修改
 * `src\pages\about.md` 关于
+* `src\components\Header.astro` 头部
 
 图标网站参考：
 
