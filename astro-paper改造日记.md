@@ -9,8 +9,6 @@
 
 ### 时区问题
 
-
-
 npm dev 文章正常显示，但 build + http server 文章却没有按预期显示的原因：当 dev 状态的时候，不检查后面，如果是 build 状态就要检查发布时间了。
 
 时间格式参考：
@@ -205,6 +203,9 @@ import ExpiredBanner from '@/components/ExpiredBanner.astro'
 * https://icon-sets.iconify.design
 * https://icones.js.org
 
+## Giscus评论
+
+[为你的 Astro 博客添加评论功能](https://liruifengv.com/posts/add-comments-to-astro/) + [how-to-integrate-giscus-comments](https://astro-paper.pages.dev/posts/how-to-integrate-giscus-comments/)
 
 
 ## 扩展
