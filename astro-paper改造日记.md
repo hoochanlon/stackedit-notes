@@ -64,6 +64,9 @@ jobs:
 
 pnpm更新：`pnpm install --frozen-lockfile`
 
+<img width="1157" height="539" alt="image" src="https://github.com/user-attachments/assets/c356fccb-d3e7-4aa1-9c1e-4c192e1694f1" />
+
+
 
 ## 简要配置定位
 
