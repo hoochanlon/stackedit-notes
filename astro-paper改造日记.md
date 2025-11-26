@@ -215,7 +215,7 @@ https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank
 `\src\layouts\Layout.astro`
 
 ```
-
+<script is:inline defer src="https://cloud.umami.is/script.js" data-website-id="e8dda199-cdc2-4bb5-8aeb-1a6bd156ada7"></script>
 ```
 
 ## 扩展
