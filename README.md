@@ -1,6 +1,7 @@
 # stackedit-notes
 
-vscode + mdeditor
+* vscode + mdeditor
+* VS Code in the browser
 
 power by stackedit
 
