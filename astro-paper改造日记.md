@@ -62,6 +62,7 @@ jobs:
         uses: actions/deploy-pages@v4  # 已是 v4 版本，确保版本匹配
 ```
 
+pnpm更新：`pnpm install --frozen-lockfile`
 
 
 ## 简要配置定位
