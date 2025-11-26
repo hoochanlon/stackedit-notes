@@ -207,7 +207,7 @@ import ExpiredBanner from '@/components/ExpiredBanner.astro'
 
 https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown
 
-[为你的 Astro 博客添加评论功能](https://liruifengv.com/posts/add-comments-to-astro/?target=_blank) + [how-to-integrate-giscus-comments](https://astro-paper.pages.dev/posts/how-to-integrate-giscus-comments/?target=_blank)
+[为你的 Astro 博客添加评论功能](https://liruifengv.com/posts/add-comments-to-astro/) + [how-to-integrate-giscus-comments](https://astro-paper.pages.dev/posts/how-to-integrate-giscus-comments/)
 
 
 ## 扩展
