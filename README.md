@@ -1,5 +1,7 @@
 # stackedit-notes
 
+vscode + mdeditor
+
 power by stackedit
 
 * https://stackeditpro.io
