@@ -1,5 +1,10 @@
 ## 坑点
 
+### tina cms
+
+* token、id 改名
+* github pages 部署存在故障
+
 
 ### npm 依赖报错：
 
