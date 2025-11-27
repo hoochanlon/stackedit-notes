@@ -233,6 +233,45 @@ cd dist/
 http-server -p 4000
 ```
 
+## page cms
+
+https://app.pagescms.org/
+
+在设置里，复制如下代码
+
+```
+media:
+  input: public
+  output: /
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/data/blog
+    view:
+      fields: [ title, draft, date ]
+    fields:
+      - { name: author, label: Author, type: string }
+      - { name: pubDatetime, label: Date, type: date }
+      - { name: modDatetime, label: Date, type: date }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: ogImage, label: Title, type: string }
+      - { name: slug, label: Slug, type: string }
+      - { name: featured, label: Featured, type: boolean }
+      - { name: draft, label: Draft, type: boolean }
+      - { name: tags, label: Tags, type: string, list: true }
+      - { name: description, label: Description, type: string }
+      - { name: body, label: Body, type: rich-text }
+  - name: about
+    label: About page
+    type: file
+    path: src/pages/about.md
+    fields:
+      - { name: layout, type: string, hidden: true, default: "../layouts/AboutLayout.astro" }
+      - { name: title, label: Title, type: string }
+      - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
+```
+
 ## 扩展
 
 - astro umami 统计：https://github.com/yeskunall/astro-umami
