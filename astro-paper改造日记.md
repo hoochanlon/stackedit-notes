@@ -87,8 +87,6 @@ pnpm更新：`pnpm install --frozen-lockfile`
 
 ## 固定URL，文章移动到任意文件夹保持固定链接
 
-
-
 URL效果： `localhost:4321/posts/{slug}`
 
 使用方式，全文替换如下文件
@@ -116,7 +114,6 @@ const sortedPosts = getSortedPosts(posts);
 ```
 
 
-
 ```ts
 \src\utils\getPath.ts
 import { slugifyStr } from "./slugify";  // 引入 slugify 工具
@@ -129,6 +126,9 @@ console.log(filePath);  // 这样使用后，警告就会消失
 return includeBase ? </span><span class="token string">/posts/</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>slug<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string"> : slug;
 }
 ```
+
+<img width="856" height="425" alt="image" src="https://github.com/user-attachments/assets/7b03cde3-81fc-43c4-b134-ee45bd40416f" />
+
 
 
 ## 字体修改
