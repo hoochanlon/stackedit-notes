@@ -127,6 +127,8 @@ return includeBase ? </span><span class="token string">/posts/</span><span class
 }
 ```
 
+补充：astro 5.0新特性
+
 <img width="856" height="425" alt="image" src="https://github.com/user-attachments/assets/7b03cde3-81fc-43c4-b134-ee45bd40416f" />
 
 
