@@ -170,7 +170,6 @@ font-family: lxgw wenkai, sans-serif;
 
 ```astro
 ---
----
 const { pubDatetime, expiryDays = 30 } = Astro.props;
 const now = new Date();
 const pubDate = new Date(pubDatetime);
