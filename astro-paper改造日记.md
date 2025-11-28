@@ -304,6 +304,23 @@ content:
 `\src\styles\global.css`
 
 ```
+/* 响应式视频容器 */
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    /* padding-bottom: 75%;   */
+    padding-bottom: 56.25%; 
+}
+
+.video-container iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    border: 0;
+}
 ```
 
 ## AstroPaper缓存策略与性能调优
