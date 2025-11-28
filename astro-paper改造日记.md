@@ -78,6 +78,7 @@ pnpm更新：`pnpm install --frozen-lockfile`
 * `\src\constants.ts` 社交链接修改
 * `src\pages\about.md` 关于
 * `src\components\Header.astro` 头部
+* `\src\components\Footer.astro` 页脚信息
 
 图标网站参考：
 
