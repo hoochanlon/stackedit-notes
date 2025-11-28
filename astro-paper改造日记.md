@@ -198,6 +198,7 @@ slug: "20250601190253"
 我的文章标题
 这是文章的内容……
 import ExpiredBanner from '@/components/ExpiredBanner.astro'
+
 <ExpiredBanner pubDatetime={frontmatter.pubDatetime} expiryDays={30} />
 ```
 
