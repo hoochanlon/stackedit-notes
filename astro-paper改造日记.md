@@ -299,6 +299,13 @@ content:
       - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
 ```
 
+## 视频适配
+
+`\src\styles\global.css`
+
+```
+```
+
 ## AstroPaper缓存策略与性能调优
 
 https://blog.csdn.net/gitblog_00680/article/details/152506722
