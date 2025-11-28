@@ -1,4 +1,4 @@
-***感谢：https://github.com/zxc7563598 的帮助，才能顺利使用 astro-paper 加密效果。使用方式：创建对应文件，全文复制粘贴。***
+***感谢：[zxc7563598](https://github.com/zxc7563598) 的帮助，以及原文章 [mmf.moe - blog-02-password](https://blog.mmf.moe/post/blog-02-password/)，才能顺利使用 astro-paper 加密效果。使用方式：创建对应文件，全文复制粘贴。***
 
 
 
