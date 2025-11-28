@@ -186,7 +186,10 @@ const isExpired = daysDiff > expiryDays;
 
 
 
-在 mdx 文件引入。（需开启mdx支持：[astro - extending-markdown-config-from-mdx](https://docs.astro.build/en/guides/markdown-content/#extending-markdown-config-from-mdx)）
+在 mdx 文件引入。需开启mdx支持：
+
+* [astro - extending-markdown-config-from-mdx](https://docs.astro.build/en/guides/markdown-content/#extending-markdown-config-from-mdx)
+* [astro -using-mdx-with-content-collections](https://docs.astro.build/en/guides/integrations-guide/mdx/#using-mdx-with-content-collections)
 
 ```md
 ---
