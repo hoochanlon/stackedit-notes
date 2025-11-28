@@ -145,8 +145,6 @@ https://blog.csdn.net/gitblog_00592/article/details/152524702
 
 ```css
 \src\styles\global.css
-@import "../assets/fonts/JetBrainsMono/result.css";
-@import "../assets/fonts/lxgw-wenkai/result.css";
 :root {
 --font-mono: 'JetBrains Mono', 'JetBrainsMono', 'Fira Mono', 'Menlo', 'Consolas', monospace;
 --font-cn: 'LXGW WenKai GB', 'Microsoft YaHei', 'PingFang SC', 'WenQuanYi Micro Hei', sans-serif;
@@ -156,8 +154,8 @@ li{font-family: 'JetBrains Mono', sans-serif;}
 p {font-family: 'LXGW WenKai GB', sans-serif;font-size: 18px;}
 /* 博客标题字体 */
 a.absolute {
-font-size: 22px;  / 修改字体大小 /
-font-family: lxgw wenkai, sans-serif;  / 修改字体类型 */
+font-size: 22px;  
+font-family: lxgw wenkai, sans-serif; 
 }
 ```
 
