@@ -160,7 +160,9 @@ font-family: lxgw wenkai, sans-serif;
 }
 ```
 
+## 公式支持
 
+https://astro-paper.pages.dev/posts/how-to-add-latex-equations-in-blog-posts/
 
 ## 文章过期提示
 
