@@ -1,6 +1,6 @@
-***感谢：https://github.com/zxc7563598 的帮助，才能顺利使用 astro-paper 加密效果。***
+***感谢：https://github.com/zxc7563598 的帮助，才能顺利使用 astro-paper 加密效果。使用方式：创建对应文件，全文复制粘贴。***
 
-使用方式：创建对应文件，全文复制粘贴
+
 
 ## 创建 Encrypt.astro
 
