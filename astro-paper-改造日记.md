@@ -138,6 +138,7 @@ https://blog.csdn.net/gitblog_00592/article/details/152524702
 
 ## 字体修改
 
+当前发现适配中文字体： 苹方SC字体
 
 字体修改：
 
